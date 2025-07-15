@@ -1,0 +1,10 @@
+# Ignore node modules
+node_modules/
+
+# Ignore production build files
+build/
+
+# Ignore OS or tool-specific files
+.DS_Store
+.env
+*.log
