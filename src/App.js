@@ -122,6 +122,7 @@ export default function App() {
             <li>Created and containerized the app using Docker, pushing images to Docker Hub for version control and deployment.</li>
             <li>Deployed the application on AWS EKS (Elastic Kubernetes Service) with NodePort service and managed Redis using StatefulSet with persistent storage.</li>
             <li>Automated CI/CD using GitHub Actions to rebuild Docker images and update live pods on EKS when code changes are pushed.</li>
+            <li>Package the application by helm and deploy the application using helm charts on eks by using GitHub Actions.</li>
           </ul>
         </div>
       </section>
