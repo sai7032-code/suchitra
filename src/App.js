@@ -71,7 +71,7 @@ export default function App() {
         {[
           { title: "☁️ Cloud Platforms", items: ["AWS (Lambda, S3, DynamoDB, EC2)"], color: "from-blue-100 via-white to-blue-50", textColor: "text-blue-800" },
           { title: "🔧 Infrastructure as Code", items: ["Terraform"], color: "from-indigo-100 via-white to-indigo-50", textColor: "text-indigo-800" },
-          { title: "⚙️ CI/CD Tools", items: ["Jenkins", "Codefresh"], color: "from-pink-100 via-white to-rose-100", textColor: "text-pink-800" },
+          { title: "⚙️ CI/CD Tools", items: ["GitHub Actions", "Codefresh"], color: "from-pink-100 via-white to-rose-100", textColor: "text-pink-800" },
           { title: "📦 Containers & Orchestration", items: ["Docker", "Kubernetes (EKS)", "Docker Hub", "Dockerfile"], color: "from-yellow-100 via-white to-orange-100", textColor: "text-yellow-800" },
           { title: "📊 Monitoring Tools", items: ["Grafana", "Prometheus", "AWS CloudWatch"], color: "from-teal-100 via-white to-green-100", textColor: "text-green-800" },
           { title: "💻 Scripting", items: ["Bash"], color: "from-purple-100 via-white to-purple-50", textColor: "text-purple-800" },
